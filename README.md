@@ -1,9 +1,10 @@
 <h1 align="center">Hola! 👋, soy Santiago</h1>
 <h3 align="center">Full Stack Developer de Argentina</h3>
 
-El motor de la tecnología está impulsado por mi curiosidad, alimentado por mi pasión y encendido por la chispa de mis habilidades. Soy un buscador de aventuras y me encanta convertir la información en acción a través de proyectos.
+El motor de la tecnología está impulsado por mi curiosidad, alimentado por mi pasión y encendido por la chispa de mis habilidades. 
+Soy un buscador de aventuras y me encanta convertir la información en acción a través de proyectos.
 
-Me encanta conectarme y colaborar con gente nueva y obtener diferentes perspectivas de un problema: ¡nada realmente interesante se construye solo!
+Me encanta conectarme, colaborar con gente nueva y obtener diferentes perspectivas de un problema: nada realmente interesante se construye solo!
 
 - 🌱 Actualmente estoy aprendiendo **toda la tecnología que me permite profundizar mis conocimientos**
 - 👯 Busco colaborar en **Proyectos que supongan un reto y me den la oportunidad de aumentar mi experiencia**
