@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Santiago</h1>
-<h3 align="center">A Full Stack Developer From Argentina</h3>
+<h1 align="center">Hola! 👋, soy Santiago</h1>
+<h3 align="center">Full Stack Developer de Argentina</h3>
 
-The engine of technology is powered by my curiosity, fueled with my passion and ignited by the spark of my skills. I am an adventure-seeker and love to turn information into action through projects.
+El motor de la tecnología está impulsado por mi curiosidad, alimentado por mi pasión y encendido por la chispa de mis habilidades. Soy un buscador de aventuras y me encanta convertir la información en acción a través de proyectos.
 
-I love connecting and collaborating with new people and obtaining different perspectives to a problem – nothing really interesting is ever built alone!
+Me encanta conectarme y colaborar con gente nueva y obtener diferentes perspectivas de un problema: ¡nada realmente interesante se construye solo!
 
-- 🌱 I’m currently learning **all technology that allows me to deepen my knowledge**
-- 👯 I’m looking to collaborate on **Projects that involves a challenge and gives me the opportunity to increase my experience**
-- 📫 How to reach me **santiagompereyra@gmail.com**
+- 🌱 Actualmente estoy aprendiendo **toda la tecnología que me permite profundizar mis conocimientos**
+- 👯 Busco colaborar en **Proyectos que supongan un reto y me den la oportunidad de aumentar mi experiencia**
+- 📫 Como contactarme **santiagompereyra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
